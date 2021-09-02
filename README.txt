@@ -3,16 +3,10 @@ My name is Mohanad,
 i am a beginner software developer,
 i hope you like my game <3.
 
-#INSTRUCTIONS:
-click the "setup.exe" file
-click 'next'
-then "UCL BOUNCER !" folder will be on your desktop
-open it and click the "UCL Bouncer !.exe"
-then ENJOY!
-
 #NOTE!
 after selecting the player and the game window appear
 click on the game window to activate the controls
+-my code maybe a little messy but i am working on it.
 
 #CONTROLS:
 to move the player to the right use:
