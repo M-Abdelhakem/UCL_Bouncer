@@ -1,7 +1,7 @@
 from tkinter import *
 import math
 import time
-
+import sys
 
 
 
@@ -11,6 +11,7 @@ def game_ronaldo():
     def outro():
         def exitt():
             window.destroy()
+            sys.exit()
             # game_over_window.destroy()
 
         game_over_window = Toplevel()
@@ -125,6 +126,7 @@ def game_salah():
     def outro():
         def exitt():
             window.destroy()
+            sys.exit()
             # game_over_window.destroy()
 
         game_over_window = Toplevel()
@@ -242,6 +244,7 @@ def game_messi():
     def outro():
         def exitt():
             window.destroy()
+            sys.exit()
             #game_over_window.destroy()
         game_over_window = Toplevel()
         game_over_window.overrideredirect(1)
