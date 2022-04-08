@@ -13,3 +13,4 @@ to move the player to the right use:
 right arrow or d
 to move the player to the left use:
 left arrow or a
+or just drag & drop using the mouse
