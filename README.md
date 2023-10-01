@@ -1,4 +1,4 @@
-# Bounce It! - The Ultimate Ball Bouncing Game
+# UCL Bouncer! - The Ultimate Ball Bouncing Game
 
 <!-- ![Bounce It!](link-to-your-game-screenshot.png) -->
 
@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Bounce It! is an exciting Python game built using the Tkinter library. Choose your favorite player (Messi, Salah, Ronaldo) and take on the challenge of bouncing the ball as high as you can. Compete against yourself or friends to achieve the highest score and become the ultimate ball bouncer!
+Bounce It! is an exciting Python game built using the Tkinter library. Choose your favorite player (Messi, Salah, Ronaldo) and take on the challenge of bouncing the ball as high as you can. Compete against yourself or friends to achieve the highest score and become the UCL Bouncer!
 
 ## Features
 
